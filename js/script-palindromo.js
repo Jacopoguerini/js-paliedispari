@@ -1,6 +1,7 @@
 // 1 - Palindroma
 
 // Chiedere all'utente di inserire una parola
+
 var word = prompt("Inserisci qui una parola");
 console.log(word);
 
