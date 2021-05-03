@@ -54,7 +54,7 @@ while (i >= 0) {
 console.log(wordReverse);
 
 if(word == wordReverse){
-    console.log('La parola scelta è palindroma');
+    alert("La parola scelta è palindroma");
 } else {
-    console.log('La parola scelta non è palindroma');
+    alert("La parola scelta non è palindroma");
 }
